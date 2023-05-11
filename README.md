@@ -1,2 +1,4 @@
-# ALG1_TPs
-Trabalhos práticos para a disciplina [DCC206 - Algoritmos 1]
+# Trabalhos Práticos
+DCC206 - Algoritmos 1 | Universidade Federal de Minas Gerais | 2022/02
+
+Bernardo Reis de Almeida
